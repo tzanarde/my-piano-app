@@ -13,6 +13,18 @@
 		74ADDDDB2B88C6FF00D31B2E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74ADDDD92B88C6FF00D31B2E /* Main.storyboard */; };
 		74ADDDDD2B88C70100D31B2E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74ADDDDC2B88C70100D31B2E /* Assets.xcassets */; };
 		74ADDDE02B88C70100D31B2E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74ADDDDE2B88C70100D31B2E /* LaunchScreen.storyboard */; };
+		74ADDE0B2B88C93400D31B2E /* B.wav in Resources */ = {isa = PBXBuildFile; fileRef = 74ADDE042B88C93400D31B2E /* B.wav */; };
+		74ADDE0C2B88C93400D31B2E /* A.wav in Resources */ = {isa = PBXBuildFile; fileRef = 74ADDE052B88C93400D31B2E /* A.wav */; };
+		74ADDE0D2B88C93400D31B2E /* D.wav in Resources */ = {isa = PBXBuildFile; fileRef = 74ADDE062B88C93400D31B2E /* D.wav */; };
+		74ADDE0E2B88C93400D31B2E /* F.wav in Resources */ = {isa = PBXBuildFile; fileRef = 74ADDE072B88C93400D31B2E /* F.wav */; };
+		74ADDE0F2B88C93400D31B2E /* G.wav in Resources */ = {isa = PBXBuildFile; fileRef = 74ADDE082B88C93400D31B2E /* G.wav */; };
+		74ADDE102B88C93400D31B2E /* E.wav in Resources */ = {isa = PBXBuildFile; fileRef = 74ADDE092B88C93400D31B2E /* E.wav */; };
+		74ADDE112B88C93400D31B2E /* C.wav in Resources */ = {isa = PBXBuildFile; fileRef = 74ADDE0A2B88C93400D31B2E /* C.wav */; };
+		74ADDE172B88E26900D31B2E /* FS.wav in Resources */ = {isa = PBXBuildFile; fileRef = 74ADDE122B88E26900D31B2E /* FS.wav */; };
+		74ADDE182B88E26900D31B2E /* CS.wav in Resources */ = {isa = PBXBuildFile; fileRef = 74ADDE132B88E26900D31B2E /* CS.wav */; };
+		74ADDE192B88E26900D31B2E /* GS.wav in Resources */ = {isa = PBXBuildFile; fileRef = 74ADDE142B88E26900D31B2E /* GS.wav */; };
+		74ADDE1A2B88E26900D31B2E /* DS.wav in Resources */ = {isa = PBXBuildFile; fileRef = 74ADDE152B88E26900D31B2E /* DS.wav */; };
+		74ADDE1B2B88E26900D31B2E /* AS.wav in Resources */ = {isa = PBXBuildFile; fileRef = 74ADDE162B88E26900D31B2E /* AS.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +36,18 @@
 		74ADDDDC2B88C70100D31B2E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		74ADDDDF2B88C70100D31B2E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		74ADDDE12B88C70100D31B2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		74ADDE042B88C93400D31B2E /* B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = B.wav; sourceTree = "<group>"; };
+		74ADDE052B88C93400D31B2E /* A.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A.wav; sourceTree = "<group>"; };
+		74ADDE062B88C93400D31B2E /* D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = D.wav; sourceTree = "<group>"; };
+		74ADDE072B88C93400D31B2E /* F.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = F.wav; sourceTree = "<group>"; };
+		74ADDE082B88C93400D31B2E /* G.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = G.wav; sourceTree = "<group>"; };
+		74ADDE092B88C93400D31B2E /* E.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = E.wav; sourceTree = "<group>"; };
+		74ADDE0A2B88C93400D31B2E /* C.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = C.wav; sourceTree = "<group>"; };
+		74ADDE122B88E26900D31B2E /* FS.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = FS.wav; sourceTree = "<group>"; };
+		74ADDE132B88E26900D31B2E /* CS.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = CS.wav; sourceTree = "<group>"; };
+		74ADDE142B88E26900D31B2E /* GS.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = GS.wav; sourceTree = "<group>"; };
+		74ADDE152B88E26900D31B2E /* DS.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = DS.wav; sourceTree = "<group>"; };
+		74ADDE162B88E26900D31B2E /* AS.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = AS.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +80,7 @@
 		74ADDDD22B88C6FF00D31B2E /* MyPianoApp */ = {
 			isa = PBXGroup;
 			children = (
+				74ADDDF52B88C8D300D31B2E /* Sounds */,
 				74ADDDD32B88C6FF00D31B2E /* AppDelegate.swift */,
 				74ADDDD52B88C6FF00D31B2E /* SceneDelegate.swift */,
 				74ADDDD72B88C6FF00D31B2E /* ViewController.swift */,
@@ -65,6 +90,25 @@
 				74ADDDE12B88C70100D31B2E /* Info.plist */,
 			);
 			path = MyPianoApp;
+			sourceTree = "<group>";
+		};
+		74ADDDF52B88C8D300D31B2E /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				74ADDE162B88E26900D31B2E /* AS.wav */,
+				74ADDE132B88E26900D31B2E /* CS.wav */,
+				74ADDE152B88E26900D31B2E /* DS.wav */,
+				74ADDE122B88E26900D31B2E /* FS.wav */,
+				74ADDE142B88E26900D31B2E /* GS.wav */,
+				74ADDE052B88C93400D31B2E /* A.wav */,
+				74ADDE042B88C93400D31B2E /* B.wav */,
+				74ADDE0A2B88C93400D31B2E /* C.wav */,
+				74ADDE062B88C93400D31B2E /* D.wav */,
+				74ADDE092B88C93400D31B2E /* E.wav */,
+				74ADDE072B88C93400D31B2E /* F.wav */,
+				74ADDE082B88C93400D31B2E /* G.wav */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +169,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				74ADDE192B88E26900D31B2E /* GS.wav in Resources */,
+				74ADDE1A2B88E26900D31B2E /* DS.wav in Resources */,
+				74ADDE172B88E26900D31B2E /* FS.wav in Resources */,
+				74ADDE0F2B88C93400D31B2E /* G.wav in Resources */,
 				74ADDDE02B88C70100D31B2E /* LaunchScreen.storyboard in Resources */,
+				74ADDE1B2B88E26900D31B2E /* AS.wav in Resources */,
+				74ADDE0E2B88C93400D31B2E /* F.wav in Resources */,
+				74ADDE182B88E26900D31B2E /* CS.wav in Resources */,
 				74ADDDDD2B88C70100D31B2E /* Assets.xcassets in Resources */,
+				74ADDE112B88C93400D31B2E /* C.wav in Resources */,
 				74ADDDDB2B88C6FF00D31B2E /* Main.storyboard in Resources */,
+				74ADDE0D2B88C93400D31B2E /* D.wav in Resources */,
+				74ADDE102B88C93400D31B2E /* E.wav in Resources */,
+				74ADDE0C2B88C93400D31B2E /* A.wav in Resources */,
+				74ADDE0B2B88C93400D31B2E /* B.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,8 +354,8 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -326,8 +382,8 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
